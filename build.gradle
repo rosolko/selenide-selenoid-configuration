@@ -1,0 +1,21 @@
+plugins {
+    id "java"
+}
+
+group "com.gihub.rosolko"
+version "1.0.0"
+
+sourceCompatibility = 1.8
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    testImplementation("org.junit.jupiter:junit-jupiter:5.4.2")
+    testImplementation("com.codeborne:selenide:5.2.3")
+}
+
+wrapper {
+    gradleVersion = "5.4.1"
+}
