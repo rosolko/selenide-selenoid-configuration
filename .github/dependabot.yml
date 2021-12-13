@@ -8,3 +8,4 @@ updates:
     open-pull-requests-limit: 99
     labels:
       - "dependencies"
+      - "automerge"
