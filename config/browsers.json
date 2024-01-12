@@ -3,7 +3,7 @@
     "default": "74.0",
     "versions": {
       "74.0": {
-        "image": "selenoid/chrome:74.0",
+        "image": "selenoid/chrome:75.0",
         "port": "4444",
         "path": "/",
         "tmpfs": {
@@ -16,7 +16,7 @@
     "default": "67.0",
     "versions": {
       "67.0": {
-        "image": "selenoid/firefox:67.0",
+        "image": "selenoid/firefox:68.0",
         "port": "4444",
         "path": "/wd/hub",
         "tmpfs": {

@@ -5,4 +5,4 @@ Related to [medium post](https://medium.com/@rosolko/configure-selenide-to-work-
 How to use:
 * Clone repo
 * Start selenoid based on browsers.json from config folder
-* Run tests: `./gradlew clean test`
+* Run tests: `./gradlew test`
