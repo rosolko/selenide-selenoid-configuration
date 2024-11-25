@@ -13,7 +13,7 @@ repositories {
 
 dependencies {
     testImplementation("org.junit.jupiter:junit-jupiter:5.11.3")
-    testImplementation("com.codeborne:selenide:7.5.1")
+    testImplementation("com.codeborne:selenide:7.6.0")
 }
 
 wrapper {
